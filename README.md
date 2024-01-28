@@ -1,5 +1,5 @@
 <h1 align="center">Hello there👋, I'm Anu Likitha Immadisetty passionate Front-end developer from India</h1>
-<h3>About Me</h3>
+<h3 align="center">About Me</h3>
 
 - 🔭 Upcoming @Dell **Data Analytics and Automation Team**
 
@@ -9,7 +9,7 @@
 
 - 📫 Reach me on **anulikitha_i@srmap.edu.in**
 
-<h3 align="left">Connect with me</h3>
+<h3 align="center">Connect with me</h3>
 <p align="left">
 <a href="https://linkedin.com/in/anu likitha immadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anu likitha immadisetty" height="30" width="40" /></a>
 <a href="https://fb.com/anu likitha immadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anu likitha immadisetty" height="30" width="40" /></a>
