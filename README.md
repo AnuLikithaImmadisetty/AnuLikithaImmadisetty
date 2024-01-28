@@ -1,4 +1,5 @@
-<h1 align="center">Hello there👋, I'm Anu Likitha Immadisetty passionate Front-end developer from India</h1>
+<h1 align="center">Hello there👋, I'm Anu Likitha Immadisetty </h1>
+<h2 align="center">A passionate Front-end developer from India </h2>
 <h3 align="center">About Me</h3>
 
 - 🔭 Upcoming @Dell **Data Analytics and Automation Team**
