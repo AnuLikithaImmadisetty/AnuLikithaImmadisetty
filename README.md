@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **App Development**
 
-- 💬 Ask me about **App development and Data analytics**
+- 💬 Ask me about **Data analytics**
 
-- 📫 How to reach me **anulikhitha7@gmail.com**
+- 📫 Reach me on **anulikitha_i@srmap.edu.in**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
