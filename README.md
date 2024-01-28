@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a hred="https://github.com/anulikhitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anulikhitha" height="30" width="40" /></a>
+<a hred="https://github.com/anulikhitha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github-in-alt.svg" alt="anulikhitha" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/anu likitha immadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anu likitha immadisetty" height="30" width="40" /></a>
 <a href="https://fb.com/anu likitha immadisetty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="anu likitha immadisetty" height="30" width="40" /></a>
 <a href="https://instagram.com/anukutti_06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="anukutti_06" height="30" width="40" /></a>
