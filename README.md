@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Anu Likitha Immadisetty</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🌱 I’m currently learning *App Development*
+- 🌱 I’m currently learning *Web Development*
 
 - 📫 How to reach me *mailto:anulikhitha7@gmail.com*
 
