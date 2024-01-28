@@ -1,5 +1,6 @@
 <h1 align="center">Hey 👋, I'm Anu Likitha Immadisetty</h1>
-<h3 align="center">A passionate App developer from India</h3>
+<h3 align="center">A passionate Front developer from India</h3>
+<h3>About Me</h3>
 
 - 🔭 Upcoming @Dell **Data Analytics and Automation Team**
 
