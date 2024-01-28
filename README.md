@@ -1,5 +1,5 @@
-<h1 align="center">Hello there👋, I'm Anu Likitha Immadisetty </h1>
-<h2 align="center">A passionate Front-end developer from India </h2>
+<h1 align="center">Anu Likitha Immadisetty, a proficient Front-end Developer with remote work experience , actively engages in teamwork and project partnerships </h1>
+
 <h3 align="center">About Me</h3>
 
 - 🔭 Upcoming @Dell **Data Analytics and Automation Team**
