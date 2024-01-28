@@ -1,4 +1,4 @@
-<h1 align="center">Anu Likitha Immadisetty, a proficient Front-end Developer with remote work experience , actively engages in teamwork and project partnerships </h1>
+<h1 align="center">Anu Likitha Immadisetty, a proficient Front-end Developer with remote work experience actively engages in teamwork and project partnerships </h1>
 
 <h3 align="center">About Me</h3>
 
