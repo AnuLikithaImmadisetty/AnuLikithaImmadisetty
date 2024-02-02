@@ -4,7 +4,7 @@
 
 - 🔭 Upcoming @Dell **Data Analytics and Automation Team**
 
-- 🌱 Currently learning **App Development**
+- 🌱 Currently learning **Full Stack Development**
 
 - 💬 Ask me about **Data analytics**
 
