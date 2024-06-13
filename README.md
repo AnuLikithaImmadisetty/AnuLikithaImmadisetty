@@ -2,11 +2,11 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 Upcoming @Dell **Data Analytics and Automation Team**
+- 🔭 Working @Dell **Data Analytics and Automation Team - Logistics Team**
 
 - 🌱 Currently learning **Full Stack Development**
 
-- 💬 Ask me about **Data analytics**
+- 💬 Ask me about **Data analytics & Supply Chain Management**
 
 - 📫 Reach me on **anulikitha_i@srmap.edu.in**
 
