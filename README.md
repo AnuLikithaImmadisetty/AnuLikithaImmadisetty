@@ -2,7 +2,7 @@
 
 <h3 align="center">About Me</h3>
 
-- 🔭 Working **DELL TECHNOLOGIES, Bangalore | Data Analytics Intern'24 - Logistics Team**
+- 🔭 Worked in **DELL TECHNOLOGIES, Bangalore | Data Analytics Intern'24 - Logistics Team**
 
 - 🌱 Currently learning **Supply Chain Management, Data Science**
 
