@@ -8,7 +8,7 @@
 
 - 💬 Ask me any querries about **Data analytics**
 
-- 📫 Reach me on **anulikitha_i@srmap.edu.in**
+- 📫 Reach me on **anulikhithaimmadisetty@gmail.com**
 
 <h3 align="center">Connect with me</h3>
 <p align="left">
