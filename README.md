@@ -6,5 +6,5 @@
 - 🌱 Actively enhancing my expertise in **Full Stack Development**
 - 🤝 Excited to collaborate on innovative projects in data analysis, machine learning, and web development
 - 💬 Skilled in data visualization, Python, Power BI, and PostgreSQL - Feel free to spark a conversation!
-- 🎨 Outside the professional realm, I'm deeply passionate about portrait sketching and painting
+- 🎨 Fun fact, I'm deeply passionate about portrait sketching and painting
 - 📫 Feel free to reach out at **anulikhithaimmadisetty@gmail.com**
