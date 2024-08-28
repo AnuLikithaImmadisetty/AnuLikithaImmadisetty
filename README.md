@@ -8,6 +8,7 @@
 - 💬 Skilled in data visualization, Python, Power BI, and PostgreSQL - Feel free to spark a conversation!
 - 🎨 Outside the professional realm, I'm deeply passionate about portrait sketching and painting
 - 📫 Feel free to reach out at **anulikhithaimmadisetty@gmail.com**
+
 [![](https://visitcount.itsvg.in/api?id=shubhamPandey31201&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
