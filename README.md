@@ -1,10 +1,10 @@
-<h1 align="center">Anu Likitha Immadisetty, a proficient in Python and with extensive experience in Data Analytics, Machine Learning and a keen interest in Data Science </h1>
+<h1 align="center">Anu Likitha Immadisetty, a proficient in Python and with extensive experience in Data Analytics, Machine Learning and a keen interest in Full Stack Development!</h1>
 
 <h3 align="center">About Me</h3>
 
 - 🔭 Worked in **DELL TECHNOLOGIES, Bangalore | Data Analytics Intern'24 - Logistics Team**
 
-- 🌱 Currently learning **Supply Chain Management, Data Science**
+- 🌱 Currently learning **Full Stack Development**
 
 - 💬 Ask me any querries about **Data analytics**
 
