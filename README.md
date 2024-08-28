@@ -1,4 +1,4 @@
-<h1 align="center">Hi👋,I'm Anu Likitha Immadisetty!</h1>
+<h1 align="center">Hi👋, I'm Anu Likitha Immadisetty!</h1>
 <h3 align="center">Your dedication to data and technology is truly remarkable!🚀</h3>
 
 - 🔭 Currently graduating in **SRMAP University**
