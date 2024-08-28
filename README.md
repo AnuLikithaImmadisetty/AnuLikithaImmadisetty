@@ -1,17 +1,9 @@
 <h1 align="center">Hello, Anu Likitha Immadisetty!</h1>
-<h3 align="center">Your passion for data and technology is truly inspiring!</h3>
+<h3 align="center">Your dedication to data and technology is truly remarkable!</h3>
 
-- 🔭 Experience at **DELL Technologies, Bangalore | Data Analytics Intern '24 - Logistics Team**
-  
-- 🌱 Currently expanding skills in **Full Stack Development**
-  
-- 👯 Open to collaborating on projects involving data analysis, machine learning, and web development.
-  
-- 💬 Proficient in data visualization, Python, Power BI, and PostgreSQL - let's start a conversation!
-
-- ⚡ Passionate about Portrait sketching and paintings.
-  
-- 📫 Connect with me at **anulikhithaimmadisetty@gmail.com**
-
-
-
+- 🔭 Gained valuable experience as a **Data Analytics Intern '24 at DELL Technologies, Bangalore | Logistics Team**
+- 🌱 Actively enhancing my expertise in **Full Stack Development**
+- 👯 Excited to collaborate on innovative projects in data analysis, machine learning, and web development.
+- 💬 Skilled in data visualization, Python, Power BI, and PostgreSQL - Feel free to have a spark conversation!
+- 🎨 Outside the professional realm, I'm deeply passionate about portrait sketching and painting.
+- 📫 Feel free to reach out at **anulikhithaimmadisetty@gmail.com**
