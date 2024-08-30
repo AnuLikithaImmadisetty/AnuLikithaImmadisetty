@@ -7,6 +7,7 @@
 - 🌱 Actively enhancing my expertise in **Full Stack Development**
 - 🤝 Excited to collaborate on innovative projects in data analysis, machine learning, and web development
 - 💬 Skilled in Python, Power BI, PostgreSQL, Machine Learning & Deep Learning - Feel free to spark a conversation!
-- 📫 Feel free to reach out at **anulikhithaimmadisetty@gmail.com**
 - 😄 Pronouns: She/Her
 - 🎨 Fun fact, My deep passion for portrait sketching and painting adds a unique charm to my world!
+- 📫 Feel free to reach out at **anulikhithaimmadisetty@gmail.com**
+
